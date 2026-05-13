@@ -51,11 +51,11 @@ g++ main.cpp -o main
 
 | Team Member | Contribution |
 |-------------|--------------|
-| Your Name | Project Lead |
-| Member 2 | UI Module |
-| Member 3 | Database |
-| Member 4 | Documentation |
-| Member 5 | Testing |
+| Tan | Project Lead |
+| Co | UI Module |
+| Padilla | Database |
+| Doromal | Documentation |
+| Domandan | Testing |
 
 ---
 
